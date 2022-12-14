@@ -31,11 +31,6 @@
   border: 2px solid #6bcb77;
 }
 
-.input--userChoice:focus {
-  border: none;
-  border: 1px solid #6bcb77;
-}
-
 .input--btn {
   border: none;
   color: white;
@@ -56,11 +51,9 @@
 }
 
 .numbers--div {
-  /* background-color: red; */
   width: 54.5vw;
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
   text-align: center;
   align-items: center;
   gap: 10px;
